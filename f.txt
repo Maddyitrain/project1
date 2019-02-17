@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 jahsjhasjbajs am good and bad and goo`
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> master
 
+i M BAD	
+nd gooood
+i m good
+=======
+i am good and bad
+>>>>>>> ondev
+=======
+i am good and bad and goo`
+>>>>>>> ondev
+JDJSDJHDJSH
